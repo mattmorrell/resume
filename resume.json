@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "Matthew Morrell",
+    "label": "Programmer",
+    "picture": "",
+    "email": "matt.morrell@gmail.com",
+    "phone": "(865) 228-1236",
+    "website": "",
+    "summary": "Something witty and interesting goes here. ",
+    "location": {
+      "address": "9928 Bellflower Way",
+      "postalCode": "TN 37932",
+      "city": "Knoxville",
+      "countryCode": "US",
+      "region": "Tennessee"
+    },
+    "profiles": []
+  },
+  "work": [
+   {
+      "company": "Oak Ridge National Lab",
+      "position": "Application/Developer III",
+	  "website": "https://www.ornl.gov/",
+      "startDate": "2009-06-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+   {
+      "company": "Y12 National Security Complext",
+      "position": "Senior Technical Staff Member I",
+	  "website": "http://www.y12.doe.gov/",
+      "startDate": "2005-08-01",
+      "endDate": "2009-06-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Medalliance Management Group",
+      "position": "Developer",
+	  "website": "http://www.medalliance.md",
+      "startDate": "2002-05-01",
+      "endDate": "2005-08-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": []
+    ,
+  "education": [
+    {
+      "institution": "East Tennesse State Univiersity",
+      "area": "Applied Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "1998-08-01",
+      "endDate": "2003-05-01",
+      "gpa": "3.4",
+      "courses": []
+    },
+	{
+      "institution": "East Tennesse State Univiersity",
+      "area": "Applied Computer Science",
+      "studyType": "Masters",
+      "startDate": "2003-08-01",
+      "endDate": "2005-05-01",
+      "gpa": "3.9",
+      "courses": []
+    }
+  ],
+  "awards": [{
+    "title": "Eagle Scout",
+    "date": "1995-07-01",
+    "awarder": "",
+    "summary": ""
+  },
+  {
+    "title": "Y12 Scroll and Quill award",
+    "date": "2007-01-01",
+    "awarder": "",
+    "summary": "In recognition of a registered copyright"
+  }
+  ],
+  
+  "skills": [
+    {
+      "name": "Programming/Scripting Languages:",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",		
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Web",
+      "level": "",
+      "keywords": [
+        
+      ]
+    },
+	{
+      "name": "Database Technologies",
+      "level": "",
+      "keywords": [      
+      ]
+    }
+	,
+	{
+      "name": "Mobile Technologies",
+      "level": "",
+      "keywords": [      
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
