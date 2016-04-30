@@ -86,7 +86,7 @@
       "name": "Programming/Scripting Languages:",
       "level": "",
       "keywords": [
-        "HTML",
+        "C#",
         "CSS",		
         "Javascript"
       ]
@@ -95,7 +95,11 @@
       "name": "Web",
       "level": "",
       "keywords": [
-        
+        "HTML",
+        "CSS",
+        "Javascript",
+        "JQuery",
+        "ASP.NET"
       ]
     },
 	{
